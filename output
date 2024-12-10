@@ -1,0 +1,14 @@
+Extracted Entities:
+Resume 1: {'Skills': ['Python', 'SQL', 'AWS'], 'Experience': ['5 years of experience'], 'Certifications': []}
+Resume 2: {'Skills': ['NLP', 'transformers', 'Python', 'Google Cloud Platform'], 'Experience': [], 'Certifications': ['certified AI engineer']}
+Resume 3: {'Skills': ['Java', 'Spring Boot', 'React'], 'Experience': [], 'Certifications': []}
+
+Ranking Candidates:
+1. Resume 2: Similarity Score = 0.75
+2. Resume 1: Similarity Score = 0.68
+3. Resume 3: Similarity Score = 0.45
+
+Ranking with Transformers:
+Resume 1: Match Score = 0.78
+Resume 2: Match Score = 0.89
+Resume 3: Match Score = 0.62
